@@ -18,7 +18,7 @@ function ModalManageProfiles({ navigation }) {
       <View style={styles.container}>
         <View style={styles.containerUser}>
           <Image source={images.robot} style={styles.avatar} />
-          <Text style={styles.text}>Caleb</Text>
+          <Text style={styles.text}>Mcebo Zulu</Text>
           <View style={styles.overlay} />
           <View style={styles.containerSvg}>
             <SvgEdit active size={40} />
@@ -27,7 +27,7 @@ function ModalManageProfiles({ navigation }) {
 
         <View style={styles.containerUser}>
           <Image source={images.penguin} style={styles.avatar} />
-          <Text style={styles.text}>Kim</Text>
+          <Text style={styles.text}>Lethokuhle Zulu</Text>
           <View style={styles.overlay} />
           <View style={styles.containerSvg}>
             <SvgEdit active size={40} />
